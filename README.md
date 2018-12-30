@@ -4,7 +4,7 @@ A third-culture kid with interests in languages, UX and accessibility. I swear f
 
 I am looking to work in a responsible and responsive organisation with dynamic, exciting projects.
 
-[SKILLS](https://github.com/kaihoffman/CV#skills) | [PROJECTS](https://github.com/kaihoffman/CV#projects) | [EDUCATION](https://github.com/kaihoffman/CV#education) | [EXPERIENCE](https://github.com/kaihoffman/CV#experience) | [BLOG](https://medium.com/@kaipmdh)
+[SKILLS](https://github.com/kaihoffman/CV#skills)     |     [PROJECTS](https://github.com/kaihoffman/CV#projects)     |     [EDUCATION](https://github.com/kaihoffman/CV#education)     |     [EXPERIENCE](https://github.com/kaihoffman/CV#experience)     |     [BLOG](https://medium.com/@kaipmdh)
 
 ## Skills
 
