@@ -22,7 +22,7 @@ I am a systematic and creative problem solver, with experience dealing with hard
 - I managed a project to improve wireless network access on campus with 150 new access points installed or upgraded with no down time experienced by users.
 - I have extensive cellar experience, solving draught line issues under pressure in some of London's best craft beer bars.
 
-#### Projects
+## Projects
 
 | Project | Description | Technologies
 | ---|---|---|
