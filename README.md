@@ -35,7 +35,7 @@ I am a systematic and creative problem solver, with experience dealing with hard
 #### Makers Academy (December 2018 - March 2019 (expected))
 
 - Curious and passionate about code: Before the start of the main part of the course, I taught myself Rails and oAuth through creating a Twitter bot, a numbers station-like program that procedurally generates numbers and tweets them out. I aim to update this with natural language processing (NLP) to scramble actual tweets from specified users and tweet them out in code.
-- Fast, independent learner: With only 12 weeks of the on-site portion of the course, students must quickly gather information, determine what is relevant for the problem required and 
+- Fast, independent learner: With only 12 weeks of the on-site portion of the course, students must quickly gather information, determine what is relevant for the problem required and make use of these technologies and tools immediately to produce vbiable code in very short timescales.
 - Great collaborator: Makers Academy emphasises pair programming and working in small agile teams to enhance productivity.
 
 - OOP, TDD, MVC, DDD
