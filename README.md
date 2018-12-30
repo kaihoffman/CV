@@ -1,10 +1,10 @@
 ## Kai Hoffman
 
+[SKILLS](https://github.com/kaihoffman/CV#skills) | [PROJECTS](https://github.com/kaihoffman/CV#projects) | [EDUCATION](https://github.com/kaihoffman/CV#education) | [EXPERIENCE](https://github.com/kaihoffman/CV#experience) | [BLOG](https://medium.com/@kaipmdh)
+
 A third-culture kid with interests in languages, UX and accessibility. I swear fluently in 4 human languages and happily in 3 more, and thought I could add the knowledge of computer languages to the mix. I have worked in E-Commerce on the marketing and product side for years, and am looking to widen my skills portfolio to become a confident full-stack developer through Makers Academy's 12-week bootcamp.
 
 I am looking to work in a responsible and responsive organisation with dynamic, exciting projects.
-
-[SKILLS](https://github.com/kaihoffman/CV#skills)     |     [PROJECTS](https://github.com/kaihoffman/CV#projects)     |     [EDUCATION](https://github.com/kaihoffman/CV#education)     |     [EXPERIENCE](https://github.com/kaihoffman/CV#experience)     |     [BLOG](https://medium.com/@kaipmdh)
 
 ## Skills
 
