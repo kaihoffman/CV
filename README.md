@@ -6,6 +6,10 @@ A third-culture kid with interests in languages, UX and accessibility. I swear f
 
 I am looking to work in a responsible and responsive organisation with dynamic, exciting projects.
 
+<a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/Ruby-279%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/JavaScript-117%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/HTML-110%20commits-orange.svg" alt=""></a>
+
 ## Skills
 
 #### Communication
@@ -29,6 +33,7 @@ I am a systematic and creative problem solver, with experience dealing with hard
 | Project | Description | Technologies
 | ---|---|---|
 | [Das Zahlensender](https://twitter.com/daszahlensender) | Twitter bot that functions as a very mysterious and totally not conspiratorial numbers station to practice implementation of a Ruby app to Heroku. | Ruby, oAuth, Twitter API, Heroku |
+| [Acebook](https://github.com/thielsen/acebook-rails-template) | Two-week project at Makers Academy to really hone in Agile methodologies through the creation of a Facebook-like CRUD app. | Rails, RSpec, Devise, CodeClimate, Travis CI, Heroku
 
 ## Education
 
@@ -36,7 +41,7 @@ I am a systematic and creative problem solver, with experience dealing with hard
 
 - Curious and passionate about code: Before the start of the main part of the course, I taught myself Rails and oAuth through creating a Twitter bot, a numbers station-like program that procedurally generates numbers and tweets them out. I aim to update this with natural language processing (NLP) to scramble actual tweets from specified users and tweet them out in code.
 - Fast, independent learner: With only 12 weeks of the on-site portion of the course, students must quickly gather information, determine what is relevant for the problem required and make use of these technologies and tools immediately to produce vbiable code in very short timescales.
-- Great collaborator: Makers Academy emphasises pair programming and working in small agile teams to enhance productivity.
+- Great collaborator: Makers Academy emphasises pair programming and working in small agile teams to enhance productivity. I 
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
