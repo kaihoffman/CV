@@ -23,14 +23,13 @@ I am proud of my ability to communicate with and to various audiences. Whether i
 
 #### Problem Solving
 
-I am a systematic and creative problem solver, with experience dealing with hardware and software issues in first- and second-line support as well as in busy hospitality situations.
+I am a systematic and creative problem solver, with experience dealing with hardware and software issues in first- and second-line support as well as in busy hospitality situations. I have further honed this skill during my time at Makers, which emphasises a strict process-oriented approach to problem solving, whether in software debugging or wider design.
 
 - I managed a project to improve wireless network access on campus with 150 new access points installed or upgraded with no down time experienced by users.
-- I have extensive cellar experience, solving draught line issues under pressure in some of London's best craft beer bars.
 
 ## Projects
 
-| Project | Description | Technologies
+| Project | Description | Technologies Employed
 | ---|---|---|
 | [Das Zahlensender](https://twitter.com/daszahlensender) | Twitter bot that functions as a very mysterious and totally not conspiratorial numbers station to practice implementation of a Ruby app to Heroku. | Ruby, oAuth, Twitter API, Heroku |
 | [Acebook](https://github.com/thielsen/acebook-rails-template) | Two-week project at Makers Academy to really hone in Agile methodologies through the creation of a Facebook-like CRUD app. | Rails, RSpec, Devise, CodeClimate, Travis CI, Heroku
