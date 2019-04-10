@@ -6,7 +6,7 @@ A third-culture kid with interests in languages, UX and accessibility. I swear f
 
 I am looking to work in a responsible and responsive organisation with dynamic, exciting projects.
 
-<a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/Ruby-279%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/Ruby-305%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/JavaScript-117%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/HTML-110%20commits-orange.svg" alt=""></a>
 
@@ -36,16 +36,21 @@ I am a systematic and creative problem solver, with experience dealing with hard
 
 ## Education
 
-#### Makers Academy (December 2018 - March 2019 (expected))
+#### Makers Academy (December 2018 - March 2019)
 
-- Curious and passionate about code: Before the start of the main part of the course, I taught myself Rails and oAuth through creating a Twitter bot, a numbers station-like program that procedurally generates numbers and tweets them out. I aim to update this with natural language processing (NLP) to scramble actual tweets from specified users and tweet them out in code.
-- Fast, independent learner: With only 12 weeks of the on-site portion of the course, students must quickly gather information, determine what is relevant for the problem required and make use of these technologies and tools immediately to produce vbiable code in very short timescales.
-- Great collaborator: Makers Academy emphasises pair programming and working in small agile teams to enhance productivity. I 
+- Curious and passionate about code: Before the start of the main part of the course, I taught myself the Twitter API and oAuth through creating a Twitter bot, a numbers station-like program that procedurally generates numbers and tweets them out. I aim to update this with natural language processing (NLP) to scramble actual tweets from specified users and tweet them out in code.
+- Fast, independent learner: With only 12 weeks of the on-site portion of the course, students must quickly gather information, determine what is relevant for the problem required and make use of these technologies and tools immediately to produce vbiable code in very short timescales. For my team's final project we successfully deployed a React.js project with Styled Components and a Firebase database, all technologies independently learned during the project duration.
+- Great collaborator: Makers Academy emphasises pair programming and working in small agile teams to enhance productivity. I have embraced Agile and XP through the course, and use my skills as a facilitator to bridge team specialities and personalities.
+- 
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Through the course I have covered the following:
+- Agile/XP processes, Design-Driven Development
+- OOP: Ruby, JavaScript, React.js, Python
+- MVC: Ruby on Rails, Sinatra
+- TDD: RSpec, Jasmine, Jest, Cypress, PyTest
+- Databases: PostgreSQL, Firebase, MongoDB, MySQL
+- CD/CI: Travis, Heroku
+- Code management through git
 
 #### King's College London, MA Geopolitics Territory and Security (2011 - 2012)
 
