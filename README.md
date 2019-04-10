@@ -27,12 +27,23 @@ I am a systematic and creative problem solver, with experience dealing with hard
 
 - I managed a project to improve wireless network access on campus with 150 new access points installed or upgraded with no down time experienced by users.
 
+- I have a robust process-oriented approach to solving code-based problems. I successfully implemented a test-first design of the continuous integration of a React app using Google Firebase, both new technologies to me at the time.
+
+#### Agile Development / XP
+
+I am a thorough Agile convert, especially of XP values. During my Makers course, we successfully worked in small Agile teams on several projects, employing industry best practice:
+
+- Daily standups with ticket estimation, leading to pair programming assignments for the tickets for the day.
+- Short (due to the timeframe of our projects) 2-day sprints that culminated in team Retrospectives
+- Iterative development with continuous integration as soon as we had a viable product.
+
 ## Projects
 
 | Project | Description | Technologies Employed
 | ---|---|---|
 | [Das Zahlensender](https://twitter.com/daszahlensender) | Twitter bot that functions as a very mysterious and totally not conspiratorial numbers station to practice implementation of a Ruby app to Heroku. | Ruby, oAuth, Twitter API, Heroku |
 | [Acebook](https://github.com/thielsen/acebook-rails-template) | Two-week project at Makers Academy to really hone in Agile methodologies through the creation of a Facebook-like CRUD app. | Rails, RSpec, Devise, CodeClimate, Travis CI, Heroku
+| [Fashion Finder](https://github.com/rtfdm/fashion-finder) | Two-week Makers Academy final project, implementing an aspirational fashion e-commerce front-end | React, Firebase, Styled Components, Jest, Cypress, CodeClimate, Travis CI
 
 ## Education
 
@@ -40,8 +51,7 @@ I am a systematic and creative problem solver, with experience dealing with hard
 
 - Curious and passionate about code: Before the start of the main part of the course, I taught myself the Twitter API and oAuth through creating a Twitter bot, a numbers station-like program that procedurally generates numbers and tweets them out. I aim to update this with natural language processing (NLP) to scramble actual tweets from specified users and tweet them out in code.
 - Fast, independent learner: With only 12 weeks of the on-site portion of the course, students must quickly gather information, determine what is relevant for the problem required and make use of these technologies and tools immediately to produce vbiable code in very short timescales. For my team's final project we successfully deployed a React.js project with Styled Components and a Firebase database, all technologies independently learned during the project duration.
-- Great collaborator: Makers Academy emphasises pair programming and working in small agile teams to enhance productivity. I have embraced Agile and XP through the course, and use my skills as a facilitator to bridge team specialities and personalities.
-- 
+- Great collaborator: Makers Academy emphasises pair programming and working in small agile teams to enhance productivity. I have embraced Agile and XP through the course, and use my skills as a facilitator to bridge team specialities and personalities. 
 
 Through the course I have covered the following:
 - Agile/XP processes, Design-Driven Development
