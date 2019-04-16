@@ -31,10 +31,10 @@ I am a systematic and creative problem solver, with experience dealing with hard
 
 #### Agile Development / XP
 
-I am a thorough Agile convert, especially of XP values. During my Makers course, we successfully worked in small Agile teams on several projects, employing industry best practice:
+I am a thorough Agile convert, especially of XP values. During my Makers course, I worked in small Agile teams on several projects, employing industry best practice. In the spirit of the XP value of feedback, I implemented a system of face to face feedback on pull requests in my teams, meaning everyone involved had ownership of the code and a sense of having contributed, even when they may have not written the feature itself.
 
 - Daily standups with ticket estimation, leading to pair programming assignments for the tickets for the day.
-- Short (due to the timeframe of our projects) 2-day sprints that culminated in team Retrospectives
+- Short (due to the timeframe of our projects) 2-day sprints that culminated in team Retrospectives and review of progress
 - Iterative development with continuous integration as soon as we had a viable product.
 
 ## Projects
