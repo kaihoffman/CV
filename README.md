@@ -14,7 +14,7 @@ I am looking to work in a responsible and responsive organisation with dynamic, 
 
 #### Communication
 
-I am proud of my ability to communicate with and to various audiences. Whether in written form or in presentations, I am a confident and persuasive communicator. I have significant experience in electronic marketing as well as acedemic writing.
+I am proud of my ability to communicate with and to various audiences. Whether in written form or in presentations, I am a confident and persuasive communicator. I have significant experience in electronic marketing as well as academic writing.
 
 - I wrote the electronic marketing materials for the e-commerce operation of BrewDog, Britain's largest and fastest-growing craft brewer, helping to double online sales in 12 months.
 - I have run beer tasting events for a variety of audiences, fine-tuning my presentation and detail level to the audience's specifications (few people on a work Christmas do care about the particular shade of crystallized malt used in a beer!)
