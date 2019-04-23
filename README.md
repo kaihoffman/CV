@@ -6,7 +6,7 @@ A third-culture kid with interests in languages, UX and accessibility. I swear f
 
 I am looking to work in a responsible and responsive organisation with dynamic, exciting projects.
 
-<a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/Ruby-305%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/Ruby-335%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/JavaScript-117%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/HTML-110%20commits-orange.svg" alt=""></a>
 
@@ -39,11 +39,11 @@ I am a thorough Agile convert, especially of XP values. During my Makers course,
 
 ## Projects
 
-| Project | Description | Technologies Employed
-| ---|---|---|
-| [Das Zahlensender](https://twitter.com/daszahlensender) | Twitter bot that functions as a very mysterious and totally not conspiratorial numbers station to practice implementation of a Ruby app to Heroku. | Ruby, oAuth, Twitter API, Heroku |
-| [Acebook](https://github.com/thielsen/acebook-rails-template) | Two-week project at Makers Academy to really hone in Agile methodologies through the creation of a Facebook-like CRUD app. | Rails, RSpec, Devise, CodeClimate, Travis CI, Heroku
-| [Fashion Finder](https://github.com/rtfdm/fashion-finder) | Two-week Makers Academy final project, implementing an aspirational fashion e-commerce front-end | React, Firebase, Styled Components, Jest, Cypress, CodeClimate, Travis CI
+| Project | Description | Technologies Employed | Running at
+| ---|---|---|---|
+| [Das Zahlensender](https://twitter.com/daszahlensender) | Twitter bot that functions as a very mysterious and totally not conspiratorial numbers station to practice implementation of a Ruby app to Heroku. | Ruby, oAuth, Twitter API, Heroku | [Twitter](https://twitter.com/daszahlensender)
+| [Acebook](https://github.com/kaihoffman/acebook-rails-template) | Two-week project at Makers Academy to really hone in Agile methodologies through the creation of a Facebook-like CRUD app. | Rails, RSpec, Devise, CodeClimate, Travis CI, Heroku | [Heroku](https://acebook-template.herokuapp.com/)
+| [Fashion Finder](https://github.com/rtfdm/fashion-finder) | Two-week Makers Academy final project, implementing an aspirational fashion e-commerce front-end | React, Firebase, Styled Components, Jest, Cypress, CodeClimate, Travis CI | [FirebaseApp](https://fashion-finder-prod.firebaseapp.com)
 
 ## Education
 
