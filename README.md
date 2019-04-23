@@ -56,6 +56,7 @@ I am a thorough Agile convert, especially of XP values. During my Makers course,
 Through the course I have covered the following:
 - Agile/XP processes, Design-Driven Development
 - OOP: Ruby, JavaScript, React.js, Python
+- OOP Best Practices: SOLID principles, RESTful APIs, encapsulation, high cohesion
 - MVC: Ruby on Rails, Sinatra
 - TDD: RSpec, Jasmine, Jest, Cypress, PyTest
 - Databases: PostgreSQL, Firebase, MongoDB, MySQL
