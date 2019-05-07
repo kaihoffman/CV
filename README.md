@@ -6,10 +6,6 @@ A third-culture kid with interests in languages, UX and accessibility. I swear f
 
 I am looking to work in a responsible and responsive organisation with dynamic, exciting projects.
 
-<a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/Ruby-335%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/JavaScript-117%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/kaihoffman"><img src="https://img.shields.io/badge/HTML-110%20commits-orange.svg" alt=""></a>
-
 ## Skills
 
 #### Communication
@@ -83,6 +79,6 @@ Through the course I have covered the following:
 ## Experience
 
 **EeBria** (January 2018 - September 2018)    
-*Head of Retail Marketing*  
+*Head of Retail Marketing (ECommerce)*  
 **BrewDog** (August 2015 to December 2018)   
-*ECommerce*
+*ECommerce Manager*
